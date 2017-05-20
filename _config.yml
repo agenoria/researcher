@@ -1,6 +1,6 @@
 title: Agenoria
 url: "https://agenoria.github.io"
-baseurl: "/researcher"
+baseurl: "/simple-jekyll-template"
 
 markdown: kramdown
 
